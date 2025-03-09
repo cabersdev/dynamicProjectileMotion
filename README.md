@@ -1,1 +1,1 @@
-# dynamicProjectileMotion
+# Dynamic projectile motion
